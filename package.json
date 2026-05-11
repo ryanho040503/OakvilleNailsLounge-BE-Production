@@ -1,0 +1,20 @@
+{
+  "name": "oakville-nails-lounge-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone API server for Oakville Nails Lounge booking and content data.",
+  "scripts": {
+    "dev": "node --watch ./bin/www",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.1",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "zod": "^3.24.4"
+  }
+}
