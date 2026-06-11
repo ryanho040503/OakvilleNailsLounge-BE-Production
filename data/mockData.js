@@ -27,7 +27,7 @@ const services = [
   createService("chrome", "Chrome", "Nail Extensions", 20, 15, "Chrome finish for a reflective high-shine nail look."),
   createService("bio-gel-refill", "Bio Gel Refill", "Nail Extensions", 75, 55, "Bio gel refill service to maintain length, shape, and finish."),
   createService("bio-gel-overlay", "Bio Gel Overlay", "Nail Extensions", 75, 60, "A bio gel overlay for flexible strength and natural-looking polish."),
-  createService("bio-gel-full-set", "Bio Gel Full Set", "Nail Extensions", 105, 70, "A complete bio gel set for strength, length, and shine."),
+  createService("bio-gel-full-set", "Bio Gel Full Set", "Nail Extensions", 105, 65, "A complete bio gel set for strength, length, and shine."),
   createService("paraffin-treatment", "Paraffin Treatment", "Add Ons", 15, 15, "A warm paraffin add-on to soften skin and elevate your service."),
   createService("extra-15-foot-massage", "Extra 15 Minutes Foot Massage", "Add Ons", 15, 20, "Extra foot massage time to extend your pedicure relaxation."),
   createService("extra-10-foot-massage", "Extra 10 Minutes Foot Massage", "Add Ons", 10, 15, "A short add-on massage for an extra relaxing finish."),
@@ -117,11 +117,11 @@ const timeSlots = [
 ];
 
 const salonInfo = {
-  name: "Oakville Nails Lounge",
+  name: "Oakville Nails Lounge (South Oakville Centre)",
   tagline: "Beautiful nails, relaxing experience, effortless booking.",
   phone: "(905) 825-9797",
-  email: "hello@oakvillenailslounge.com",
-  address: "1515 Rebecca St, Oakville, ON L6L 5G8, Canada",
+  email: "nguyentuananh09061999@gmail.com",
+  address: "1515 Rebecca St, Oakville, ON L6L 5G8, Canada (Beside Gino's Pizza)",
   hours: ["Mon - Sun: 9:00 AM - 8:00 PM"],
 };
 
